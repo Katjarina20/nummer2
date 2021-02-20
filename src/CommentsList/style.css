@@ -1,0 +1,7 @@
+.comments-list_li {
+  list-style: none;
+  margin-left: 5px;
+  margin: 15px;
+  border-left: 7px solid black;
+  font-size: 16px;
+}
